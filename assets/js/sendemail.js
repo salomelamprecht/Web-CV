@@ -1,4 +1,4 @@
-(function () {
+/*(function () {
   emailjs.init('user_cXJ8spAqcA7Mv0Q6XhEjF');
 })();
 window.onload = function () {
@@ -19,4 +19,4 @@ window.onload = function () {
         }
       );
     });
-};
+};*/
