@@ -207,6 +207,10 @@ header {
   height: 120px;
 }
 
+.heading-hvr:hover {
+  color: rgba(0, 0, 0, 0.6);
+}
+
 /*---------------------------------------------------------------Footer*/
 
 footer {
