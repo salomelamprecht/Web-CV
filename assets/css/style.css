@@ -211,6 +211,10 @@ header {
   color: rgba(0, 0, 0, 0.6);
 }
 
+.paragraph-hvr:hover {
+  color: rgba(0, 0, 0, 0.6);
+}
+
 /*---------------------------------------------------------------Footer*/
 
 footer {
