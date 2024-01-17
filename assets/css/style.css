@@ -115,6 +115,10 @@ h3 {
   margin-bottom: 40px;
 }
 
+.text-justify {
+  text-align: justify;
+}
+
 /*---------------------------------------------------------------Heading*/
 
 header {
@@ -213,6 +217,18 @@ header {
 
 .paragraph-hvr:hover {
   color: rgba(0, 0, 0, 0.6);
+}
+
+.button {
+  color: white;
+  background-color: #e84610;
+  border-radius: 12px;
+  border: 2px solid white;
+}
+
+.button:hover {
+  background: white;
+  color: #e84610;
 }
 
 /*---------------------------------------------------------------Footer*/
